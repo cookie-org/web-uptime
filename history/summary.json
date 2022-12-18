@@ -4,19 +4,19 @@
     "url": "$DSMR_AH_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dsmr-ah",
-    "status": "down",
-    "uptime": "25.53%",
-    "uptimeDay": "25.53%",
-    "uptimeWeek": "25.53%",
-    "uptimeMonth": "25.53%",
-    "uptimeYear": "25.53%",
-    "time": 406,
-    "timeDay": 406,
-    "timeWeek": 406,
-    "timeMonth": 406,
-    "timeYear": 406,
+    "status": "up",
+    "uptime": "20.28%",
+    "uptimeDay": "20.28%",
+    "uptimeWeek": "20.28%",
+    "uptimeMonth": "20.28%",
+    "uptimeYear": "20.28%",
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {
-      "2022-12-18": 14
+      "2022-12-18": 19
     }
   },
   {
