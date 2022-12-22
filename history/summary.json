@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dsmr-ah",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 537,
     "timeDay": 600,
     "timeWeek": 537,
@@ -60,17 +60,19 @@
     "url": "$VAULT_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 585,
-    "timeWeek": 439,
-    "timeMonth": 439,
-    "timeYear": 439,
-    "dailyMinutesDown": {}
+    "time": 455,
+    "timeDay": 560,
+    "timeWeek": 455,
+    "timeMonth": 455,
+    "timeYear": 455,
+    "dailyMinutesDown": {
+      "2022-12-22": 0
+    }
   }
 ]
