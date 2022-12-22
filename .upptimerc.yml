@@ -7,8 +7,7 @@ sites:
     url: $DSMR_AH_ENDPOINT
     headers:
       - $DSMR_AH_AUTH
-      - $DSMR_AH_AUTH
-    icon: $DSMR_AH_ENDPOINT/static/dsmr_frontend/img/favicons/favicon-32x32.png
+    icon: "$DSMR_AH_ENDPOINTstatic/dsmr_frontend/img/favicons/favicon-32x32.png"
   - name: DSMR ECK
     url: $DSMR_ECK_ENDPOINT
     headers:
