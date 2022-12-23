@@ -20,7 +20,7 @@ sites:
     icon: https://raw.githubusercontent.com/dsmrreader/dsmr-reader/9a166c5d82d90a218fb5c2614483e1731de893ac/dsmr_frontend/static/dsmr_frontend/img/favicons/favicon-32x32.png
   - name: Unifi Controller
     url: $UNI_ENDPOINT
-    __dangerous__body_degraded_if_text_missing: '"up":true'
+    __dangerous__body_degraded_if_text_missing: '"up":trueFFFFF'
   - name: Vault
     url: $VAULT_ENDPOINT
 
