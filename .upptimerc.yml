@@ -7,15 +7,17 @@ sites:
     url: $DSMR_AH_ENDPOINT
     headers:
       - $DSMR_AH_AUTH
-    icon: https://github.com/dsmrreader/dsmr-reader/blob/9a166c5d82d90a218fb5c2614483e1731de893ac/dsmr_frontend/static/dsmr_frontend/img/favicons/favicon-32x32.png
+    icon: https://raw.githubusercontent.com/dsmrreader/dsmr-reader/9a166c5d82d90a218fb5c2614483e1731de893ac/dsmr_frontend/static/dsmr_frontend/img/favicons/favicon-32x32.png
   - name: DSMR ECK
     url: $DSMR_ECK_ENDPOINT
     headers:
       - $DSMR_ECK_AUTH
+    icon: https://raw.githubusercontent.com/dsmrreader/dsmr-reader/9a166c5d82d90a218fb5c2614483e1731de893ac/dsmr_frontend/static/dsmr_frontend/img/favicons/favicon-32x32.png
   - name: DSMR WS
     url: $DSMR_WS_ENDPOINT
     headers:
       - $DSMR_WS_AUTH
+    icon: https://raw.githubusercontent.com/dsmrreader/dsmr-reader/9a166c5d82d90a218fb5c2614483e1731de893ac/dsmr_frontend/static/dsmr_frontend/img/favicons/favicon-32x32.png
   - name: Unifi Controller
     url: $UNI_ENDPOINT
     __dangerous__body_degraded_if_text_missing: '"up":true'
