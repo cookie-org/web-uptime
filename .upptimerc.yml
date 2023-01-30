@@ -27,6 +27,8 @@ sites:
       - "Content-Type: application/json"
   - name: Vault
     url: $VAULT_ENDPOINT
+  - name: SRV02
+    url: $SERVER02_ENDPOINT
   - name: SRV03
     url: $SERVER03_ENDPOINT
   - name: SRV04
