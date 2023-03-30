@@ -150,9 +150,9 @@
     "url": "$SERVER01_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.90%",
@@ -162,6 +162,7 @@
     "timeMonth": 304,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-03-20": 8,
       "2023-03-12": 69
     }
@@ -210,11 +211,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv-04",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.97%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 287,
     "timeDay": 304,
     "timeWeek": 300,
