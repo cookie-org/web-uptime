@@ -197,9 +197,9 @@
     "url": "$SERVER03_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv-03",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -209,6 +209,7 @@
     "timeMonth": 287,
     "timeYear": 297,
     "dailyMinutesDown": {
+      "2023-03-31": 0,
       "2023-01-29": 2
     }
   },
