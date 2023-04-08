@@ -1,7 +1,7 @@
 url: $DSMR_ECK_ENDPOINT
-status: down
-code: 521
-responseTime: 214
-lastUpdated: 2023-04-08T19:55:07.712Z
+status: up
+code: 200
+responseTime: 558
+lastUpdated: 2023-04-08T20:08:13.231Z
 startTime: Sun Dec 18 2022 04:15:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
