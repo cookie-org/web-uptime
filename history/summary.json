@@ -212,19 +212,19 @@
     "url": "$PROWLARR_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prowlarr",
-    "status": "down",
-    "uptime": "4.40%",
-    "uptimeDay": "4.40%",
-    "uptimeWeek": "4.40%",
-    "uptimeMonth": "4.40%",
-    "uptimeYear": "4.40%",
-    "time": 915,
-    "timeDay": 915,
-    "timeWeek": 915,
-    "timeMonth": 915,
-    "timeYear": 915,
+    "status": "up",
+    "uptime": "1.27%",
+    "uptimeDay": "1.27%",
+    "uptimeWeek": "1.27%",
+    "uptimeMonth": "1.27%",
+    "uptimeYear": "1.27%",
+    "time": 918,
+    "timeDay": 918,
+    "timeWeek": 918,
+    "timeMonth": 918,
+    "timeYear": 918,
     "dailyMinutesDown": {
-      "2023-08-19": 1
+      "2023-08-19": 16
     }
   },
   {
