@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.27%",
-    "time": 624,
-    "timeDay": 701,
-    "timeWeek": 654,
-    "timeMonth": 529,
-    "timeYear": 624,
+    "time": 626,
+    "timeDay": 881,
+    "timeWeek": 719,
+    "timeMonth": 546,
+    "timeYear": 626,
     "dailyMinutesDown": {
       "2023-08-06": 21,
       "2023-07-29": 16,
@@ -213,18 +213,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prowlarr",
     "status": "down",
-    "uptime": "7.15%",
-    "uptimeDay": "7.15%",
-    "uptimeWeek": "7.15%",
-    "uptimeMonth": "7.15%",
-    "uptimeYear": "7.15%",
+    "uptime": "4.40%",
+    "uptimeDay": "4.40%",
+    "uptimeWeek": "4.40%",
+    "uptimeMonth": "4.40%",
+    "uptimeYear": "4.40%",
     "time": 915,
     "timeDay": 915,
     "timeWeek": 915,
     "timeMonth": 915,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2023-08-19": 0
+      "2023-08-19": 1
     }
   },
   {
