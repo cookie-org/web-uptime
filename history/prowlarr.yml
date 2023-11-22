@@ -1,7 +1,7 @@
 url: $PROWLARR_ENDPOINT
 status: up
 code: 200
-responseTime: 495
-lastUpdated: 2023-11-21T23:14:43.159Z
+responseTime: 475
+lastUpdated: 2023-11-22T23:13:54.680Z
 startTime: 2023-08-19T14:06:48.226Z
 generator: Upptime <https://github.com/upptime/upptime>
