@@ -1,7 +1,7 @@
 url: $HASS_ENDPOINT
 status: up
 code: 200
-responseTime: 532
-lastUpdated: 2024-10-19T23:08:36.314Z
+responseTime: 444
+lastUpdated: 2024-10-20T23:09:28.819Z
 startTime: 2023-01-05T21:06:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
