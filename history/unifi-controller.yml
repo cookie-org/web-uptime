@@ -1,7 +1,7 @@
 url: $UNI_ENDPOINT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-11T23:53:48.767Z
+status: up
+code: 200
+responseTime: 639
+lastUpdated: 2024-12-12T01:14:14.614Z
 startTime: 2022-12-22T23:36:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
