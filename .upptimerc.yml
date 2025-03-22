@@ -18,8 +18,8 @@ sites:
     headers:
       - $DSMR_WS_AUTH
     icon: https://raw.githubusercontent.com/dsmrreader/dsmr-reader/9a166c5d82d90a218fb5c2614483e1731de893ac/dsmr_frontend/static/dsmr_frontend/img/favicons/favicon-32x32.png
-  - name: Unifi Controller
-    url: $UNI_ENDPOINT
+  #- name: Unifi Controller
+  #  url: $UNI_ENDPOINT
   - name: Home Assistant
     url: $HASS_ENDPOINT
     headers:
