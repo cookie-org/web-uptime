@@ -1,7 +1,7 @@
 url: $VAULT_ENDPOINT
-status: down
-code: 403
-responseTime: 75
-lastUpdated: 2026-03-04T23:46:08.480Z
+status: up
+code: 200
+responseTime: 548
+lastUpdated: 2026-03-05T00:00:42.773Z
 startTime: 2022-12-18T04:15:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
