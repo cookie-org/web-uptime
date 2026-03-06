@@ -1,7 +1,7 @@
 url: $DSMR_WS_ENDPOINT
-status: down
-code: 403
-responseTime: 169
-lastUpdated: 2026-03-06T10:52:12.944Z
+status: up
+code: 200
+responseTime: 998
+lastUpdated: 2026-03-06T11:17:50.676Z
 startTime: 2022-12-18T04:15:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
