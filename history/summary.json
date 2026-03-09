@@ -171,18 +171,19 @@
     "url": "$SERVER01_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv-01",
-    "status": "up",
+    "status": "down",
     "uptime": "94.18%",
-    "uptimeDay": "86.41%",
+    "uptimeDay": "86.35%",
     "uptimeWeek": "92.09%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "95.61%",
     "time": 369,
-    "timeDay": 199,
-    "timeWeek": 275,
-    "timeMonth": 361,
-    "timeYear": 404,
+    "timeDay": 195,
+    "timeWeek": 271,
+    "timeMonth": 358,
+    "timeYear": 403,
     "dailyMinutesDown": {
+      "2026-03-09": 1,
       "2026-03-08": 195,
       "2026-03-07": 79,
       "2026-03-06": 231,
@@ -225,7 +226,8 @@
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2026-03-08": 1433,
+      "2026-03-09": 65,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -588,8 +590,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1440
+      "2025-03-10": 1440
     }
   },
   {
