@@ -1,7 +1,7 @@
 url: $VAULT_ENDPOINT
 status: up
 code: 200
-responseTime: 626
-lastUpdated: 2026-07-24T23:54:22.753Z
+responseTime: 564
+lastUpdated: 2026-07-25T23:50:29.580Z
 startTime: 2022-12-18T04:15:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
