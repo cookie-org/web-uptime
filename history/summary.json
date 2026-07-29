@@ -4,15 +4,15 @@
     "url": "$DSMR_AH_ENDPOINT",
     "icon": "https://raw.githubusercontent.com/dsmrreader/dsmr-reader/9a166c5d82d90a218fb5c2614483e1731de893ac/dsmr_frontend/static/dsmr_frontend/img/favicons/favicon-32x32.png",
     "slug": "dsmr-ah",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.66%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.65%",
     "time": 852,
-    "timeDay": 662,
-    "timeWeek": 725,
+    "timeDay": 688,
+    "timeWeek": 727,
     "timeMonth": 738,
     "timeYear": 897,
     "dailyMinutesDown": {
@@ -31,7 +31,7 @@
       "2026-06-05": 16,
       "2026-06-14": 75,
       "2026-06-15": 361,
-      "2026-07-29": 5
+      "2026-07-29": 55
     }
   },
   {
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2026-07-29": 1246,
+      "2026-07-29": 1301,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
