@@ -4,17 +4,17 @@
     "url": "$DSMR_AH_ENDPOINT",
     "icon": "https://raw.githubusercontent.com/dsmrreader/dsmr-reader/9a166c5d82d90a218fb5c2614483e1731de893ac/dsmr_frontend/static/dsmr_frontend/img/favicons/favicon-32x32.png",
     "slug": "dsmr-ah",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.65%",
+    "uptimeDay": "93.51%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.63%",
     "time": 852,
-    "timeDay": 510,
-    "timeWeek": 682,
+    "timeDay": 584,
+    "timeWeek": 686,
     "timeMonth": 739,
-    "timeYear": 896,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-11-08": 33,
       "2025-11-18": 128,
@@ -32,7 +32,7 @@
       "2026-06-14": 75,
       "2026-06-15": 361,
       "2026-07-29": 55,
-      "2026-08-02": 5
+      "2026-08-02": 94
     }
   },
   {
@@ -40,17 +40,17 @@
     "url": "$DSMR_ECK_ENDPOINT",
     "icon": "https://raw.githubusercontent.com/dsmrreader/dsmr-reader/9a166c5d82d90a218fb5c2614483e1731de893ac/dsmr_frontend/static/dsmr_frontend/img/favicons/favicon-32x32.png",
     "slug": "dsmr-eck",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.68%",
-    "time": 783,
-    "timeDay": 526,
-    "timeWeek": 713,
-    "timeMonth": 772,
-    "timeYear": 776,
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.66%",
+    "time": 784,
+    "timeDay": 685,
+    "timeWeek": 745,
+    "timeMonth": 779,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2025-11-08": 31,
       "2025-11-18": 176,
@@ -63,7 +63,7 @@
       "2026-05-24": 355,
       "2026-06-14": 75,
       "2026-06-15": 360,
-      "2026-08-02": 5
+      "2026-08-02": 93
     }
   },
   {
@@ -71,16 +71,16 @@
     "url": "$DSMR_WS_ENDPOINT",
     "icon": "https://raw.githubusercontent.com/dsmrreader/dsmr-reader/9a166c5d82d90a218fb5c2614483e1731de893ac/dsmr_frontend/static/dsmr_frontend/img/favicons/favicon-32x32.png",
     "slug": "dsmr-ws",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.69%",
+    "uptimeDay": "93.54%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.67%",
     "time": 752,
-    "timeDay": 562,
-    "timeWeek": 726,
-    "timeMonth": 764,
+    "timeDay": 600,
+    "timeWeek": 720,
+    "timeMonth": 761,
     "timeYear": 771,
     "dailyMinutesDown": {
       "2025-11-08": 30,
@@ -94,7 +94,7 @@
       "2026-05-24": 355,
       "2026-06-14": 75,
       "2026-06-15": 360,
-      "2026-08-02": 5
+      "2026-08-02": 93
     }
   },
   {
@@ -237,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2026-08-02": 566,
+      "2026-08-02": 659,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
