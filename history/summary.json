@@ -52,7 +52,7 @@
     "time": 781,
     "timeDay": 747,
     "timeWeek": 735,
-    "timeMonth": 757,
+    "timeMonth": 761,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2025-11-08": 31,
@@ -85,7 +85,7 @@
     "time": 751,
     "timeDay": 756,
     "timeWeek": 716,
-    "timeMonth": 718,
+    "timeMonth": 717,
     "timeYear": 771,
     "dailyMinutesDown": {
       "2025-11-08": 30,
@@ -118,7 +118,7 @@
     "time": 535,
     "timeDay": 615,
     "timeWeek": 481,
-    "timeMonth": 486,
+    "timeMonth": 485,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2025-10-01": 25,
@@ -173,14 +173,14 @@
     "slug": "prowlarr",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.75%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.73%",
     "time": 794,
     "timeDay": 809,
     "timeWeek": 805,
-    "timeMonth": 910,
+    "timeMonth": 907,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2025-11-08": 54,
@@ -195,7 +195,8 @@
       "2026-06-05": 15,
       "2026-06-14": 74,
       "2026-06-15": 359,
-      "2026-08-16": 5
+      "2026-08-17": 96,
+      "2026-08-16": 27
     }
   },
   {
@@ -212,7 +213,7 @@
     "time": 346,
     "timeDay": 309,
     "timeWeek": 255,
-    "timeMonth": 255,
+    "timeMonth": 257,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2025-12-05": 18,
@@ -234,7 +235,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv-02",
     "status": "down",
-    "uptime": "58.68%",
+    "uptime": "58.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -245,7 +246,8 @@
     "timeMonth": 0,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2026-08-16": 1418,
+      "2026-08-17": 96,
+      "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -608,8 +610,7 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
-      "2025-08-17": 1440
+      "2025-08-18": 1440
     }
   },
   {
@@ -626,7 +627,7 @@
     "time": 279,
     "timeDay": 351,
     "timeWeek": 290,
-    "timeMonth": 300,
+    "timeMonth": 303,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2025-08-19": 66,
@@ -650,7 +651,7 @@
     "time": 261,
     "timeDay": 331,
     "timeWeek": 258,
-    "timeMonth": 253,
+    "timeMonth": 255,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2026-01-01": 23,
