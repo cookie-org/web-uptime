@@ -1,7 +1,7 @@
 url: $DSMR_AH_ENDPOINT
-status: down
-code: 503
-responseTime: 223
-lastUpdated: 2026-09-08T00:47:21.892Z
+status: up
+code: 200
+responseTime: 601
+lastUpdated: 2026-09-08T01:27:58.324Z
 startTime: 2022-12-18T03:56:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
